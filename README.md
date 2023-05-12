@@ -1,7 +1,2 @@
  S.Ramakrishnan
- echo “#test2">>README.md
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/your_username/repo_name.git
-git push -u origin master
+ 

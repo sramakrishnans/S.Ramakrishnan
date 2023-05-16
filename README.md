@@ -1,16 +1,13 @@
 # S.RAMAKRISHNAN
 
-[Your Website](https://www.yourwebsite.com/) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [GitHub](https://github.com/sramakrishnans/S.Ramakrishnan.git)
+[Your Website](https://www.yourwebsite.com/) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [GitHub]
 
 ## Summary
 
 A summary of your professional experience, skills, and accomplishments.
 
 ## Education
-
-- **Degree** in Subject, University, Year
-- **Degree** in Subject, University, Year
-
+I am
 ## Work Experience
 
 ### Company Name

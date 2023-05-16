@@ -1,6 +1,6 @@
 # S.RAMAKRISHNAN
 
-[Your Website](https://www.yourwebsite.com/) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [GitHub]
+[Your Website](https://www.yourwebsite.com/) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [GitHub](https://www.GitHub/in/your GitHub)
 
 ## Summary
 

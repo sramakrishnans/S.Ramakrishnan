@@ -1,6 +1,6 @@
 # S.RAMAKRISHNAN
 
-[Your Website](https://www.yourwebsite.com/) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) |
+[Your Website](https://www.yourwebsite.com/) | [LinkedIn](https://www.linkedin.com/in/ramakrishnan-s-60bb4b257/) |
 [GitHub](https://github.com/sramakrishnans/) 
 
 ## Summary

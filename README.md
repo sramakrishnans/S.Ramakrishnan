@@ -15,7 +15,11 @@ I am
 - A bullet point describing your accomplishments and responsibilities.
 - A bullet point describing your accomplishments and responsibilities.
 
-## HOBBIES
+## Projects
+
+## Certificates
+## Area of Interest
+## Achievements
 
 
 
